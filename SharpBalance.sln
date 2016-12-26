@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{61013D82-9866-CEAB-0ADB-CF67920BD024}") = "SharpBalance", "Assembly-CSharp.csproj", "{821E528C-6AAE-1379-08F9-0367842D018D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821E528C-6AAE-1379-08F9-0367842D018D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821E528C-6AAE-1379-08F9-0367842D018D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821E528C-6AAE-1379-08F9-0367842D018D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821E528C-6AAE-1379-08F9-0367842D018D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
